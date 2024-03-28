@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.hoverClass:hover{
+    background-color:transparent;
+    color:yellow !important;
+    cursor: pointer;
+}
+.text{
+    text-align: center;
+}
